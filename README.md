@@ -20,3 +20,27 @@ I use this space to stay consistent with DSA and algorithmic thinking.
 - **Primary Focus:** Data Structures, Algorithms, Patterns
 
 ---
+
+## 🚀 Goals
+
+- Solve **50 problems per month**
+- Improve consistency streak  
+- Focus on hard dynamic programming & graphs  
+- Maintain clean repository structure  
+
+---
+
+## 📌 Why This Repo?
+
+This repo highlights:
+
+- Hands-on algorithm practice  
+- Discipline in problem-solving  
+- Progress over time  
+- Technical depth in DSA  
+
+---
+
+## 📬 Connect With Me
+
+Feel free to explore my solutions or suggest improvements!
