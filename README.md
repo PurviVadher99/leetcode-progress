@@ -7,7 +7,7 @@ I use this space to stay consistent with DSA and algorithmic thinking.
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/PurviVadher99?theme=dark&ext=heatmap)
 
 ---
 
